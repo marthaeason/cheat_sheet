@@ -1,0 +1,41 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: antiquewhite;
+  background-color: gray;
+  opacity: 0.75;
+}
+
+table {
+  text-align: justify;
+  border: 3px dotted antiquewhite;
+  margin: 0 auto;
+  width: 800px;
+}
+
+thead {
+  background-color: darkcyan;
+  border: 1px solid antiquewhite;
+  text-decoration: underline;
+}
+
+h1 {
+  background-color: darkcyan;
+  border: 3px dotted antiquewhite;
+  width: 700px;
+  text-align: center;
+  text-shadow: 1px 1px 1px gray;
+}
+
+.title {
+  text-shadow: 1px 1px 1px gray;
+  text-decoration: underline;
+}
+
+td {
+  border: 1px solid antiquewhite;
+}
+
+.code {
+  background-color: coral;
+}
